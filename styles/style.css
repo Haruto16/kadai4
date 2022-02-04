@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+body {
+margin:0;
+padding:0;
+background-image:url("../image/background.jpg");
+}
+
+div.pagebody {
+width: 1000px;
+margin: 40px auto;
+border: solid 1px #666666;
+}
+
+div.header {
+    text-align: center;
+    padding:50px;
+    }
+    
+    div.nav { text-align: center;}
+    
+    div.nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+    }
+    
+    div.section { padding: 0 20px 0 20px;}
+    
+    div.article {
+    border: solid 3px #999999a4;
+    padding: 0 20px;
+    margin-bottom: 20px;
+    }
+    
+    
